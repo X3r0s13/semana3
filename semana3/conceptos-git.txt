@@ -1,0 +1,7 @@
+Repositorio: Es el contenedor del proyecto, en el estarán todos los archivos, historial de cambios y configuración.
+Puede ser un repositorio local o remoto(remoto, como GitHub o Gitlab)
+
+Commit: Es el registo de los cambios, cada vez que hacemos un commit, guardas una "foto" del estado actual del proyecto,
+no es solo guardar es documentar.
+
+Push: Es el ultimo paso, el paso de enviar tus commits desde tu repositorio local al repositorio remoto, en otras palabras es subir los cambios realizados al servidor(Github).
